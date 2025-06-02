@@ -1,6 +1,6 @@
-# BITSBREXPLORER
+# MOVE BLOCKCHAIN EXPLORER
 
-Based on [w8io](https://github.com/deemru/w8io) is a fast and techie BITSBR blockchain explorer based on PHP and SQLite.
+Based on [w8io](https://github.com/deemru/w8io) is a fast and techie MOVE blockchain explorer based on PHP and SQLite.
 
 ## Basic usage
 - first run (fast, minimal indexes): `php w8_updater.php`
