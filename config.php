@@ -36,7 +36,7 @@ define( 'W8IO_DB_DIR', __DIR__ . '/var/db/' );
 define( 'W8IO_DB_PATH', W8IO_DB_DIR . 'blockchain.sqlite3' );
 define( 'W8DB', 'sqlite:' . W8IO_DB_PATH );
 
-define( 'W8IO_NODES', 'http://seed3.bitsbr.com:9899|http://seed4.bitsbr.com:9899|https://nodes.bitsbr.org' );
+define( 'W8IO_NODES', 'http://seed2.moveblockchain.org:14849|http://seed3.moveblockchain.org:14849|http://nodes.moveblockchain.org' );
 define( 'W8IO_MATCHER', 'https://nodes.bitsbr.org/matcher' );
 define( 'W8IO_NETWORK', 'B' ); // 'B' -- mainnet, 'T' -- testnet
 define( 'W8IO_ROOT', '/' );
